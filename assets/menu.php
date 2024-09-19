@@ -3,6 +3,7 @@ $current_path = trim(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH), '/');
 
 function is_path($path) {
     global $current_path;
+    print_r("$current_path === $path : ".($current_path === $path));
     return $current_path === $path;
 }
 ?>
