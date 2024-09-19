@@ -64,22 +64,227 @@
         </clipPath>
     </svg>
 </div>
-<script>
 
+<br style="font-size: 12px;">
+
+<div class="accueil" hidden>
+    <table>
+        <tbody>
+        <tr>
+            <td style="padding: 0 1px 0 0; border-top: 5px solid #FFC86E;"><br/>
+                <table>
+                    <tbody>
+                    <tr>
+                        <td style="padding: 0 35px 35px 35px;">
+                            <table>
+                                <tbody>
+                                <tr>
+                                    <td align="center">
+                                        <p>
+                                            <img
+                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/IDP.png"
+                                                    alt="Image de Profil"
+                                                    title="Image de profil"
+                                                    style="display: block;"
+                                            />
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>
+                                            <a href="https://www.univ-lille.fr/" target="_blank">
+                                                <img
+                                                        src="http://lassaix.cluster031.hosting.ovh.net/images/UDL.png"
+                                                        alt="Université de Lille"
+                                                        title="Université de Lille"
+                                                        style="display: block;"
+                                                />
+                                            </a>
+                                        </p>
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </td> <!-- Logo -->
+                        <td style="border-right: 5px solid #977685;"></td> <!-- Bar -->
+                        <td style="padding: 0 35px 35px 35px;">
+                            <table>
+                                <tbody>
+                                <tr>
+                                    <td style="padding: 0 1px 20px 0; white-space: nowrap;">
+                                        <h2>
+                                            Axelle VIANDIER
+                                        </h2>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 0 1px 20px 0;">
+                                        <p style="margin: 1px;">Étudiante</p>
+                                        <p style="margin: 1px;">Licence Informatique</p>
+                                        <p style="margin: 1px;">Université de Lille</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 0 1px 0 0;">
+                                        <table>
+                                            <tbody>
+                                            <tr>
+                                                <td>
+                                                    <p style="margin: 1px;"><img
+                                                                src="http://lassaix.cluster031.hosting.ovh.net/images/icones/mail.png"
+                                                                alt="" width="18" height="18"
+                                                                style="display: block; border: 0; max-width: 18px;"/>
+                                                    </p>
+                                                </td>
+                                                <td>
+                                                    <p style="margin: 1px;">
+                                                        <a
+                                                                href="mailto:axelleviandier@lassainora.fr"
+                                                                target="_blank"
+                                                                style="color: #1d1d27;"
+                                                        > axelleviandier@lassainora.fr </a>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p style="margin: 1px;"><img
+                                                                src="http://lassaix.cluster031.hosting.ovh.net/images/icones/mail.png"
+                                                                alt="" width="18" height="18"
+                                                                style="display: block; border: 0; max-width: 18px;"/>
+                                                    </p>
+                                                </td>
+                                                <td>
+                                                    <p style="margin: 1px;">
+                                                        <a
+                                                                href="mailto:axelle.viandier2.etu@univ-lille.fr"
+                                                                target="_blank"
+                                                                style="color: #1d1d27;"
+                                                        > axelle.viandier2.etu@univ-lille.fr </a>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding: 0 1px 0 0;">
+                                        <table style="border-collapse: collapse;">
+                                            <tbody>
+                                            <tr>
+                                                <td style="font-size: 0; line-height: 0; padding: 25px 1px 0 0;">
+                                                    <p style="margin: 1px;">
+                                                        <a
+                                                                href="https://www.linkedin.com/in/axelle-viandier/"
+                                                                target="_blank"
+                                                        >
+                                                            <img
+                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/linkedin.png"
+                                                                    alt="LinkedIn"
+                                                            />
+                                                        </a>
+                                                    </p>
+                                                </td>
+                                                <td style="font-size: 0; line-height: 0; padding: 25px 1px 0 0;">
+                                                    <p style="margin: 1px;">
+                                                        <a
+                                                                href="https://www.instagram.com/lassainora/"
+                                                                target="_blank"
+                                                        >
+                                                            <img
+                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/instagram.png"
+                                                                    alt="Instagram"
+                                                            />
+                                                        </a>
+                                                    </p>
+                                                </td>
+                                                <td style="font-size: 0; line-height: 0; padding: 25px 1px 0 0;">
+                                                    <p style="margin: 1px;">
+                                                        <a
+                                                                href="https://twitter.com/_Picsel"
+                                                                target="_blank"
+                                                        >
+                                                            <img
+                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/twitter.png"
+                                                                    alt="Twitter"
+                                                            />
+                                                        </a>
+                                                    </p>
+                                                </td>
+                                                <td style="font-size: 0; line-height: 0; padding: 25px 1px 0 0;">
+                                                    <p style="margin: 1px;">
+                                                        <a
+                                                                href="https://discord.com/invite/EzNfDqyECB"
+                                                                target="_blank"
+                                                        ><img
+                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/discord.png"
+                                                                    alt="Discord"
+                                                            />
+                                                        </a>
+                                                    </p>
+                                                </td>
+                                                <td style="font-size: 0; line-height: 0; padding: 25px 1px 0 0;">
+                                                    <p style="margin: 1px;">
+                                                        <a
+                                                                href="https://github.com/LassaInora"
+                                                                target="_blank"
+                                                        >
+                                                            <img
+                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/github.png"
+                                                                    alt="GitHub"
+                                                            />
+                                                        </a>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </td> <!-- Info -->
+                    </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<script>
     "use strict";
 
     const body = document.body;
-    // const bgColorsBody = ["#ffb457", "#ff96bd", "#9999fb", "#ffe797", "#cffff1"];
-    const bgColorsBody = ["#D8805D", "#8C9571", "#977685", "#F6CD5D", "#5D98C2"];
+    const bgColorsBody = ["#D8805D", "#8C9571", "#977685", "#FFC86E", "#5D98C2"];
     const nmPage = ["Accueil", "Mes Écrits", "Mes Photos", "Mes Bots", "Mes Projets"];
     const menu = body.querySelector(".menu");
     const menuItems = menu.querySelectorAll(".menu__item");
     const menuBorder = menu.querySelector(".menu__border");
     let activeItem = menu.querySelector(".active");
-
     let dynamicTitle = document.querySelector(".dynamic-title");
 
-    function clickItem(item, index, updateURL = true) {
+    const accueilStyle = "" +
+        "display: flex;" +
+        "margin: 0 auto;" +
+        "font-size: 1.5em;" +
+        "align-items: center;" +
+        "justify-content: center;" +
+        "border-collapse: collapse;" +
+        "text-align: left;" +
+        "color: #1d1d27;"
+
+    const accueil = document.querySelector(".accueil")
+    const ecrits = document.querySelector(".ecrits")
+    const photos = document.querySelector(".photos")
+    const bots = document.querySelector(".bots")
+    const projets = document.querySelector(".projets")
+
+    function clickItem(item, index) {
 
         menu.style.removeProperty("--timeOut");
 
@@ -96,6 +301,8 @@
         dynamicTitle.textContent = nmPage[index];
         activeItem = item;
         offsetMenuBorder(activeItem, menuBorder);
+        updatePage(index);
+
     }
 
     function offsetMenuBorder(element, menuBorder) {
@@ -106,9 +313,39 @@
 
     }
 
-    offsetMenuBorder(activeItem, menuBorder);
+    function updatePage(index) {
+        switch (index){
+            case 0:
+                console.log(`${accueil} no hidden.`)
+                accueil.hidden = false;
+                accueil.style = accueilStyle;
+                console.log(`make`);
+                break;
+            case 1:
+                accueil.hidden = true;
+                accueil.style = ''
+                break;
+            case 2:
+                accueil.hidden = true;
+                accueil.style = ''
+                break;
+            case 3:
+                accueil.hidden = true;
+                accueil.style = ''
+                break;
+            case 4:
+                accueil.hidden = true;
+                accueil.style = ''
+                break;
+            default:
+                console.log("Unknown page.");
+                accueil.hidden = true;
+                accueil.style = ''
+        }
+    }
 
-    window.addEventListener("popstate", checkURL);
+    updatePage(0);
+    offsetMenuBorder(activeItem, menuBorder);
 
     menuItems.forEach((item, index) => {
 
