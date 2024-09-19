@@ -115,7 +115,6 @@ function is_path($path) {
 
     function checkURL() {
         const path = window.location.pathname;
-        console.log(`URL : ${path}`)
 
         // Mapping des chemins avec les index des items
         const urlMap = {
@@ -127,7 +126,7 @@ function is_path($path) {
         };
 
         const index = urlMap[path] !== undefined ? urlMap[path] : 0; // Redirige vers "Accueil" par défaut
-        console.log(`Vous êtes sur la page ${index} (${urlMap[index]})`)
+        console.log(`Vous êtes sur la page ${index} (${path})`)
         clickItem(menuItems[index], index, false); // false pour ne pas changer l'URL
     }
 
@@ -141,10 +140,10 @@ function is_path($path) {
 
     })
 
-    checkURL();
-
     window.addEventListener("resize", () => {
         offsetMenuBorder(activeItem, menuBorder);
         menu.style.setProperty("--timeOut", "none");
     });
+
+    checkURL();
 </script>
