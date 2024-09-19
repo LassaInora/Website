@@ -110,10 +110,10 @@
         // Mapping des chemins avec les index des items
         const urlMap = {
             "/": 0,
-            "/ecrits": 1,
-            "/photos": 2,
-            "/bots": 3,
-            "/projets": 4
+            "/ecrits/": 1,
+            "/photos/": 2,
+            "/bots/": 3,
+            "/projets/": 4
         };
 
         const index = urlMap[path] !== undefined ? urlMap[path] : 0; // Redirige vers "Accueil" par défaut
