@@ -1,9 +1,0 @@
-RewriteEngine On
-
-# Ne pas rediriger les pages spécifiques comme /login et /admin
-RewriteCond %{REQUEST_URI} !^/login$ [NC]
-RewriteCond %{REQUEST_URI} !^/admin [NC]
-RewriteCond %{REQUEST_URI} !^/logout$ [NC]
-
-# Pour toutes les autres pages, redirige vers la page d'accueil
-RewriteRule ^(.*)$ /index.php [L]
