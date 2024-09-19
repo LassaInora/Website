@@ -105,6 +105,7 @@
 
     function checkURL() {
         const path = window.location.pathname;
+        console.log(`URL : ${path}`)
 
         // Mapping des chemins avec les index des items
         const urlMap = {
