@@ -82,7 +82,7 @@
                                     <td align="center">
                                         <p>
                                             <img
-                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/IDP.png"
+                                                    src="/images/IDP.png"
                                                     alt="Image de Profil"
                                                     title="Image de profil"
                                                     style="display: block;"
@@ -95,7 +95,7 @@
                                         <p>
                                             <a href="https://www.univ-lille.fr/" target="_blank">
                                                 <img
-                                                        src="http://lassaix.cluster031.hosting.ovh.net/images/UDL.png"
+                                                        src="/images/UDL.png"
                                                         alt="Université de Lille"
                                                         title="Université de Lille"
                                                         style="display: block;"
@@ -132,7 +132,7 @@
                                             <tr>
                                                 <td>
                                                     <p style="margin: 1px;"><img
-                                                                src="http://lassaix.cluster031.hosting.ovh.net/images/icones/mail.png"
+                                                                src="/images/icones/mail.png"
                                                                 alt="" width="18" height="18"
                                                                 style="display: block; border: 0; max-width: 18px;"/>
                                                     </p>
@@ -150,7 +150,7 @@
                                             <tr>
                                                 <td>
                                                     <p style="margin: 1px;"><img
-                                                                src="http://lassaix.cluster031.hosting.ovh.net/images/icones/mail.png"
+                                                                src="/images/icones/mail.png"
                                                                 alt="" width="18" height="18"
                                                                 style="display: block; border: 0; max-width: 18px;"/>
                                                     </p>
@@ -181,7 +181,7 @@
                                                                 target="_blank"
                                                         >
                                                             <img
-                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/linkedin.png"
+                                                                    src="/images/icones/linkedin.png"
                                                                     alt="LinkedIn"
                                                             />
                                                         </a>
@@ -194,7 +194,7 @@
                                                                 target="_blank"
                                                         >
                                                             <img
-                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/instagram.png"
+                                                                    src="/images/icones/instagram.png"
                                                                     alt="Instagram"
                                                             />
                                                         </a>
@@ -207,7 +207,7 @@
                                                                 target="_blank"
                                                         >
                                                             <img
-                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/twitter.png"
+                                                                    src="/images/icones/twitter.png"
                                                                     alt="Twitter"
                                                             />
                                                         </a>
@@ -219,7 +219,7 @@
                                                                 href="https://discord.com/invite/EzNfDqyECB"
                                                                 target="_blank"
                                                         ><img
-                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/discord.png"
+                                                                    src="/images/icones/discord.png"
                                                                     alt="Discord"
                                                             />
                                                         </a>
@@ -232,7 +232,7 @@
                                                                 target="_blank"
                                                         >
                                                             <img
-                                                                    src="http://lassaix.cluster031.hosting.ovh.net/images/icones/github.png"
+                                                                    src="/images/icones/github.png"
                                                                     alt="GitHub"
                                                             />
                                                         </a>
