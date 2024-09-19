@@ -116,6 +116,7 @@
         };
 
         const index = urlMap[path] !== undefined ? urlMap[path] : 0; // Redirige vers "Accueil" par défaut
+        console.log(`Vous êtes sur la page ${index} (${urlMap[index]})`)
         clickItem(menuItems[index], index, false); // false pour ne pas changer l'URL
     }
 
