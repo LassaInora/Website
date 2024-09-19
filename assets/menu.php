@@ -1,9 +1,9 @@
 <?php
 $current_path = trim(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH), '/');
+echo "<script>console.log('{$current_path}');</script>";
 
 function is_path($path) {
     global $current_path;
-    echo "<script>console.log('{$current_path} === {$path} : " . ($current_path === $path ? 'true' : 'false') . "');</script>";
     return $current_path === $path;
 }
 ?>
