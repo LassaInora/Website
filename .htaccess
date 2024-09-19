@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Ne pas rediriger les pages spécifiques comme /login et /photos
+RewriteCond %{REQUEST_URI} ^/login [NC,OR]
+RewriteCond %{REQUEST_URI} ^/logout [NC,OR]
+RewriteCond %{REQUEST_URI} ^/admin [NC]
+
+# Pour toutes les autres pages, redirige vers index.php
+RewriteRule ^(.*)$ /index.php [L]
