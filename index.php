@@ -190,7 +190,7 @@
                                                 <td style="font-size: 0; line-height: 0; padding: 25px 1px 0 0;">
                                                     <p style="margin: 1px;">
                                                         <a
-                                                                href="https://www.instagram.com/lassainora/"
+                                                                href="https://www.instagram.com/picsel._/"
                                                                 target="_blank"
                                                         >
                                                             <img
@@ -269,6 +269,7 @@
     let dynamicTitle = document.querySelector(".dynamic-title");
 
     const accueilStyle = "" +
+        "padding: 250px 0 0.85em;" +
         "display: flex;" +
         "margin: 0 auto;" +
         "font-size: 1.5em;" +
