@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<h1 class="dynamic-title">Accueil</h1>
+<h1 class="dynamic-title">Écrits</h1>
 
 <?php include "assets/menu.php" ?>
 
